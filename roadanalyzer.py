@@ -20,7 +20,7 @@ from datetime import datetime, timedelta
 
 import glob
 #insert the correct path where the data are contained 
-#for example C:\python/Floow/Test/Definitivo/*.csv 
+#for example C:\python/your/PATH/*.csv 
 gps_record=pd.DataFrame()
 speed_df_after_peak=pd.DataFrame()
 speed_df_bef_peak=pd.DataFrame()
